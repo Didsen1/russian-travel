@@ -11,13 +11,13 @@
     }
 }
 
-@media screen and (max-width: 824px) {
+@media screen and (max-width: 1023px) {
     .header {
         width: calc(100% - 2 * 24px);
     }
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 762px)  {
     .header {
         width: calc(100% - 2 * 16px);
     }
