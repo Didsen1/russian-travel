@@ -3,7 +3,7 @@
     width: calc(100% - 2 * 48px);
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
     .cover {
         width: 100%;
         margin: 92px 0 88px;

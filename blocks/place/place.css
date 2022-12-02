@@ -8,7 +8,7 @@
     margin-bottom: 80px;
 }
 
-@media screen and (max-width: 1180px) {
+@media screen and (max-width: 1250px) {
     .place {
         grid-template-columns: 440px 456px;
         gap: 48px 32px;
