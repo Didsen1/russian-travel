@@ -2,14 +2,17 @@
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
+    text-decoration: none;
+    color: white;
 }
 
 .header__lang-link:not(:last-of-type) {
     margin-right: 18px;
 }
 
-.header__lang-link:first-of-type {
-    border-bottom: 1px solid white;
+.header__lang-link:hover {
+    opacity: .8;
+    transition: opacity 350ms ease;
 }
 
 @media screen and (max-width: 767px){

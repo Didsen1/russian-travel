@@ -1,0 +1,15 @@
+.intro-conteiner {
+    max-width: 690px;
+}
+
+@media screen and (max-width: 1023px) {
+    .intro-conteiner {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro-conteiner {
+        max-width: 288px;
+    }
+}
