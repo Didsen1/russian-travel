@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 1023px) {
     .intro {
-        align-self: flex-start;
+        align-self: center;
         width: calc(100% - 2 * 24px);
         margin-bottom: 88px;
     }
